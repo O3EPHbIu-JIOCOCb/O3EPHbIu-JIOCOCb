@@ -5,10 +5,6 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="400"/>
 </div>
-
-<div id="header" align="center">
-  My skills
-<div>
   
 <div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
